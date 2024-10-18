@@ -1,0 +1,14 @@
+body {
+    background-image: url('galaxygif2.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+    max-width: 500px;
+    margin: auto;
+}
